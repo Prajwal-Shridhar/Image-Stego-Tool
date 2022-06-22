@@ -1,0 +1,33 @@
+<RCC>
+  <qresource>
+    <file>photos/binary.png</file>
+    <file>photos/elogo.png</file>
+    <file>photos/key16.png</file>
+    <file>photos/key32.png</file>
+    <file>photos/key64.png</file>
+    <file>photos/key16x.png</file>
+    <file>photos/key24x.png</file>
+    <file>photos/key32x.png</file>
+    <file>photos/enigma.ico</file>
+    <file>photos/enigma-logo.gif</file>
+    <file>photos/enigmalogo.png</file>
+    <file>photos/number-1.png</file>
+    <file>photos/number-2.png</file>
+    <file>photos/number-3.png</file>
+    <file>photos/number-4.png</file>
+    <file>photos/1.png</file>
+    <file>photos/2.png</file>
+    <file>photos/3.png</file>
+    <file>photos/4.png</file>
+    <file>photos/logo.png</file>
+    <file>photos/key-tool.png</file>
+    <file>photos/hide.png</file>
+    <file>photos/eye.png</file>
+    <file>photos/folder.png</file>
+    <file>photos/one.png</file>
+    <file>photos/two.png</file>
+    <file>photos/three.png</file>
+    <file>photos/four.png</file>
+    <file>photos/five.png</file>
+  </qresource>
+</RCC>
